@@ -1,7 +1,7 @@
 <?php
 
-// Remove Public Access Modifier
-function calculatePrice($items)
+
+public function calculatePrice($items)
 {
 
     $total = 0;
